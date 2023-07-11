@@ -1,0 +1,4 @@
+lib/queries
+db
+knexfile.js
+mocha.opts
