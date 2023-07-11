@@ -1,8 +1,8 @@
 Generic model for bookshelf (ORM)
 
-[![CircleCI](https://circleci.com/gh/contartec-team/query-service.svg?style=shield&circle-token=c36a05f2d3157efde6b11a3c673a5344b50aa6fd)](https://circleci.com/gh/contartec-team/query-service)
+[![CircleCI](https://circleci.com/gh/kajoo-team/query-service.svg?style=shield&circle-token=c36a05f2d3157efde6b11a3c673a5344b50aa6fd)](https://circleci.com/gh/kajoo-team/query-service)
 [![Maintainability](https://api.codeclimate.com/v1/badges/697621a414e9b6c2fef9/maintainability)](https://codeclimate.com/repos/5eb4a5b0480429014d004aca/maintainability)
-[![codecov](https://codecov.io/gh/contartec-team/query-service/branch/ch1399/query-service-publicar-módulo/graph/badge.svg?token=qdJ8YXiva2)](https://codecov.io/gh/contartec-team/query-service)
+[![codecov](https://codecov.io/gh/kajoo-team/query-service/branch/ch1399/query-service-publicar-módulo/graph/badge.svg?token=qdJ8YXiva2)](https://codecov.io/gh/kajoo-team/query-service)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/697621a414e9b6c2fef9/test_coverage)](https://codeclimate.com/repos/5eb4a5b0480429014d004aca/test_coverage)
 
 ## Install
